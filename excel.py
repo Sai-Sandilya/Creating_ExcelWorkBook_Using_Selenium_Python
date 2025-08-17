@@ -18,6 +18,9 @@ ws.cell(row=1, column=4).value = "Rating"
 ws.cell(row=1, column=5).value = "Image Link"
 ws.cell(row=1, column=6).value = "Product Link"
 
+###jgdjhfgjsdfjsdfjhgfjgfsdjhfsdffjhgdfjkghdgkjdfg
+dfghjhdfgd
+
 
 
 driver = webdriver.Edge()
